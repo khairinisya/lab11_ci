@@ -18,10 +18,9 @@ Arahkan lokasi direktori sesuai dengan direktori kerja project dibuat (xampp/htd
 5. Perintah yang dapat dijalankan untuk memanggil CLI Codeigniter adalah: PHP SPARK
 ![foto5](https://github.com/user-attachments/assets/ab2ed5dc-a91f-4583-9ee2-a0bfbd192390)
 
-7. Mengaktifkan Mode Debugging Codeigniter 4 menyediakan fitur debugging untuk memudahkan developer untuk mengetahui pesan error apabila terjadi kesalahan dalam membuat kode program. Secara default fitur ini belum aktif. Ketika terjadi error pada aplikasi akan ditampilkan pesan kesalahan seperti berikut
-
+6. Mengaktifkan Mode Debugging Codeigniter 4 menyediakan fitur debugging untuk memudahkan developer untuk mengetahui pesan error apabila terjadi kesalahan dalam membuat kode program. Secara default fitur ini belum aktif. Ketika terjadi error pada aplikasi akan ditampilkan pesan kesalahan seperti berikut
 ![foto6](https://github.com/user-attachments/assets/21ffd5f3-ff56-41a6-b4d2-b0b484455376)
 
+7. Semua jenis error akan ditampilkan sama. Untuk memudahkan mengetahui jenis errornya, maka perlu diaktifkan mode debugging dengan mengubah nilai konfigurasi pada environment variable CI_ENVIRINMENT menjadi development.
+![foto7](https://github.com/user-attachments/assets/67278ef5-865f-4c9c-a188-2494c9a8bc4c)
 
-
-9. Semua jenis error akan ditampilkan sama. Untuk memudahkan mengetahui jenis errornya, maka perlu diaktifkan mode debugging dengan mengubah nilai konfigurasi pada environment variable CI_ENVIRINMENT menjadi development.
