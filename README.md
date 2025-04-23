@@ -3,4 +3,7 @@
 ## kelas :TI 23 A.4
 
 1. Untuk mengaktifkan ekstentsi tersebut, melalu XAMPP Control Panel, pada bagian Apache klik Config -> PHP.ini
-![425312529-b8ba7a44-51a2-4c61-949f-abae1f2d7e90]
+![foto1](https://github.com/user-attachments/assets/844b71d2-4b2d-4218-81a3-748143ee5662)
+
+2. Pada bagian extention, hilangkan tanda ; (titik koma) pada ekstensi yang akan diaktifkan. Kemudian simpan kembali filenya dan restart Apache web server.
+
