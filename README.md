@@ -23,4 +23,7 @@ Arahkan lokasi direktori sesuai dengan direktori kerja project dibuat (xampp/htd
 
 7. Semua jenis error akan ditampilkan sama. Untuk memudahkan mengetahui jenis errornya, maka perlu diaktifkan mode debugging dengan mengubah nilai konfigurasi pada environment variable CI_ENVIRINMENT menjadi development.
 ![foto7](https://github.com/user-attachments/assets/67278ef5-865f-4c9c-a188-2494c9a8bc4c)
-
+Ubah nama file env menjadi .env kemudian buka file tersebut dan ubah nilai variable CI_ENVIRINMENT menjadi development.
+![foto7(1)](https://github.com/user-attachments/assets/4a07fab5-1adf-4700-8ed2-eb1cae0ecbb9)
+Contoh error yang terjadi. Untuk mencoba error tersebut, ubah kode pada file app/Controller/Home.php hilangkan titik koma pada akhir kode.
+![425317938-ed11d490-dc4f-431f-8d8e-ce1fd94dce35](https://github.com/user-attachments/assets/832a8ffb-da17-484c-8d1f-977b51ea1da2)
